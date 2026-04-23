@@ -55,6 +55,8 @@ h2 {
     margin: 10px;
     min-width: 250px;
     max-width: 1000px;
+    text-align: center;
+
 
 
 }
@@ -63,7 +65,9 @@ p {
     margin: 10px;
     min-width: 250px;
     max-width: 1000px;
+    text-align: center;
     
+
 
 }
 
