@@ -26,6 +26,9 @@ header {
     color: white;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
+    min-width: 250px;
+    max-width: 800px;
+    
     
    
 }
