@@ -46,15 +46,24 @@ header {
     font-size: 20px;
     margin-bottom: 10px;
     text-align: center;
+    min-width: 250px;
+    max-width: 1000px;
+
 
 }
 h2 {
     margin: 10px;
+    min-width: 250px;
+    max-width: 1000px;
+
 
 }
 
 p {
     margin: 10px;
+    min-width: 250px;
+    max-width: 1000px;
+    
 
 }
 
